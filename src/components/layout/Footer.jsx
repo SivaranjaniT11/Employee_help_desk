@@ -12,13 +12,13 @@ export default function Footer() {
             sivaranjanithiyagarajan12@gmail.com
           </a>
         </div>
-        <button
+        {/* <button
           type="button"
           onClick={() => window.open('https://digitalheroesco.com', '_blank', 'noopener,noreferrer')}
           className="rounded-lg bg-ink-900 dark:bg-signal-500 px-4 py-2 text-xs font-semibold text-white hover:opacity-90 transition-opacity"
         >
           Built for Digital Heroes
-        </button>
+        </button> */}
       </div>
     </footer>
   );
